@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ExpandedSize">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="CollapsedSize">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
